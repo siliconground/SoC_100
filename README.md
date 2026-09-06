@@ -8,22 +8,22 @@ SoC 100에서는 반도체 설계에 입문한 여러분들을 위해 반도체 
 
 ## 🍕 구성과 세션은 다음과 같아요
   
-1. **Socio-economical Background of Semiconductor Design Development**
+✔ **Socio-economical Background of Semiconductor Design Development**
 * 반도체 발전을 지탱해 온 다양한 모멘텀을 살펴보고 우리가 앞으로 가야할 지향점을 살펴 보아요!
 
-2. **Linux**
+✔ **Linux**
 *  반도체 디자인과 EDA Tool의 발전을 가져온 Unix/Linux 시스템을 살펴보고 기본적인 운영 능력을 키워보아요!
 
-3. **SCM(Source Control Management)**
+✔ **SCM(Source Control Management)**
 * Digital IC 프로젝트를 위한 Repository를 구성하고 협업을 위한 환경 설정을 해 보아요! 취업을 위한 포트폴리오 작성을 덤이죠^^
 
-4. **Shell Scripting**
+✔ **Shell Scripting**
 * 리눅스의 기본 커맨드를 바탕으로 복잡한 업무에 대해 자동화를 C-Shell 을 통해 진행해 보아요!
 
-5. **Makefile**
+✔ **Makefile**
 * 기본적인 C 언어 개발을 설정하고 Makefile이 우리의 스트레스를 얼마나 줄여줄 수 있는지 살펴 보아요!
 
-6. **TCL Programming**
+✔ **TCL Programming**
 * 모든 EDA 솔루션의 자동화와 뗄레야 뗼 수 없는 TCL Scripting의 기본을 살펴보아요!
 
 ## 🔐 실무 개발환경을 고려하여 구성했어요
